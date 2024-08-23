@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**shanthini385/shanthini385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi there 👋
 🔭 I’m currently a graduate student at the McCombs School of Business - UT Austin, pursuing my Master's in Information Technology and Management
 💬 I have ~6years of experience working as a DevOps Engineer and my expertise lies in automating workflows, optimizing infrastructure, and driving actionable insights that helps to drive the business
